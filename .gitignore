@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+runs/
+pa4_out/
+pa4_outputs.zip
+*_pa4.zip
+.DS_Store
+.vscode/
+.idea/
